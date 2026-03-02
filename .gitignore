@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Except these
+!CONSOLIDATED_REPORT.md
+!User Mobile App Data-2026-03-02-134641.png
+!.gitignore
