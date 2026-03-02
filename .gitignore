@@ -8,6 +8,9 @@ review_summary.md
 QuickLoan_Ethical_Review_Report.html
 QuickLoan_Ethical_Review_Report.rtf
 
+# Except these (whitelisted via standard ignore)
+# medtrack_data_quality/ and shopghana_compliance/ are allowed
+
 # OS generated files
 .DS_Store
 Thumbs.db
