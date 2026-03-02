@@ -1,0 +1,7 @@
+PatientID,PatientName,PhoneNumber,AppointmentDate,DoctorName,PaymentStatus
+P001,Kwame Mensah,0244123456,2025-10-15,Dr. Osei,Paid
+P002,Ama Serwa,244789012,15/10/2025,dr. osei,paid
+P001,Kwame Mensah,0244123456,2025-10-20,Dr. Adjei,Pending
+P003,Kofi Annan,0244567890,10/16/2025,Dr. Osei,Failed
+P004,,0555234567,2025-10-17,Dr. Mensah,Paid
+P002,Ama Serwa,0244789012,2025-10-15,Dr. Osei,Paid
