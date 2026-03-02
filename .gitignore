@@ -1,9 +1,13 @@
-# Ignore everything
-*
+# Virtual Environment
+.venv/
 
-# Except these
-!CONSOLIDATED_REPORT.md
-!User Mobile App Data-2026-03-02-134641.png
-!README.md
-!medtrack_data_quality/
-!.gitignore
+# Intermediate QuickLoan Deliverables
+governance_review_card.md
+corrected_data_flow.md
+review_summary.md
+QuickLoan_Ethical_Review_Report.html
+QuickLoan_Ethical_Review_Report.rtf
+
+# OS generated files
+.DS_Store
+Thumbs.db
